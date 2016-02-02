@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'jira'
+
+jira_common = Jira::JiraCommon.new
+jira_common.say_hello
