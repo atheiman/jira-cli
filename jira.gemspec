@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Austin Heiman"]
   spec.email         = ["atheimanksu@gmail.com"]
 
-  spec.summary       = "Update JIRA issues from the command line."
+  spec.summary       = "Interact with JIRA from the command line."
   spec.homepage      = "https://github.com/atheiman/jira-cli"
   spec.license       = "MIT"
 
