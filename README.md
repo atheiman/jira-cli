@@ -20,10 +20,13 @@ Or install it yourself as:
 
 ## Configuration
 
-Config is stored in `~/jira-config.json`. Use these commands to interact with your configuration:
+Config is stored in `~/jira-config.json`. Edit this file to get started.
+
+You can also use these commands to interact with your configuration:
 
 - [ ] `jira config show` - show your current config: REST API base url, auth (password masked)
-- [ ] `jira config default` - restore default jira config
+- [ ] `jira config reset` - restore default jira config
+- [ ] `jira config diff` - show differences between your config and the default
 
 ### Config properties
 
